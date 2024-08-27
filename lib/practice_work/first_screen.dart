@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_bloc_test/second_screen.dart';
+import 'package:flutter_bloc_test/practice_work/second_screen.dart';
 import 'text_bloc.dart';
 
 class FirstScreen extends StatelessWidget {

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_bloc_test/first_screen.dart';
-import 'text_bloc.dart';  // Your BLoC file
+import 'package:flutter_bloc_test/practice_work/first_screen.dart';
+import 'practice_work/text_bloc.dart';  // Your BLoC file
 
 void main() {
   runApp(
