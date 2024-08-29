@@ -12,8 +12,7 @@ dependencies:
 
   cupertino_icons: ^1.0.8
   flutter_bloc: ^8.1.6
-  get: ^4.6.6
-  equatable: ^2.0.0
+  equatable: ^2.0.3
 
 dev_dependencies:
   flutter_test:
